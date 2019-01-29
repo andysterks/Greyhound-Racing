@@ -1,0 +1,21 @@
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe.config
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Form1.resources
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Properties.Resources.resources
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.GenerateResource.Cache
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.pdb
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.exe
+C:\Users\Andrew Sterkowitz\Desktop\Head First C#\Chapter 4\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.pdb
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe.config
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.exe
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.pdb
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe.config
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.exe
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.pdb
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Form1.resources
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Properties.Resources.resources
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.GenerateResource.Cache
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe
+C:\Users\Andrew Sterkowitz\Desktop\Portfolio\Greyhound-Racing\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.pdb
